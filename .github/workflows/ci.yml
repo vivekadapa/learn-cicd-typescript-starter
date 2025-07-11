@@ -19,4 +19,4 @@ jobs:
           node-version: 18
 
       - name: Print Node Version
-        run: nvm --version
+        run: node --version
